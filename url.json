@@ -1,0 +1,12 @@
+{
+    "CREATE_CLUSTER_ASYNC": "api/v1/createClusterAsync",
+    "DELETE_CLUSTER": "api/v1/deleteCluster",
+    "LOOKUP_OPTIONS_DATA": "api/v1/lookupOptionsData",
+    "SAVE_CREDENTIALS": "api/v1/saveCredential",
+    "GET_CREDENTIALS": "api/v1/fetchCredentialList",
+    "DELETE_CREDENTIALS": "api/v1/deleteCredential",
+    "GET_CLUSTER_STATUS": "api/v1/clusterStatus",
+    "CREATE_NAMESPACE": "api/v1/namespaces",
+    "GET_CLUSTER": "api/v1/clusters",
+    "CREATE_APPLICATION": "api/v1/application"
+}

@@ -1,0 +1,18 @@
+{
+    "CLUSTER": {
+        "CLUSTER_CREATED": "Application creation has been initiated successfully.",
+        "SOMETHING_WRONG": "Something went wrong!!",
+        "FIELD_MISSING": "Please enter valid inputs"
+    },
+    "SECURITY": {
+        "SECURITY_CREATED": "Credential <credentialName> is saved successfully!",
+        "SOMETHING_WRONG": "Something went wrong!!",
+        "FIELD_MISSING": "Please enter valid inputs",
+        "DELETE_CONFIRMATION": "Are you sure to delete <credentialName>?",
+        "DUPLICATE_CREDENTIAL": "Credential Name Already Exists"
+    },	
+    "NAMESPACE": {
+        "NAME_SPACE_CREATED": "Name Space created successfully",
+        "CUSTOM_VALUE_MISSING": "Please fill the custom values before submit."
+    }	
+}
