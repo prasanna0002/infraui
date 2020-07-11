@@ -25,4 +25,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
          name: build
-         path: /home/runner/work/infraui/infraui/dest
+         path: /home/runner/work/infraui/infraui/
